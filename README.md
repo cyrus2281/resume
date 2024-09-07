@@ -4,7 +4,7 @@
 <a target="_blank" href="https://github.com/cyrus2281">GitHub</a>
 
 ## About Me
-I am a passionate programmer 👨‍💻 who spends most of his time behind a computer 💻.
+I am a passionate self-taught programmer from Ottawa, Canada  👨‍💻 who spends most of his time behind a computer 💻.
 I work on personal projects, open-source projects, and as a developer 💼.
 I enjoy Machine Learning and AI 🤖, Software and Web development🕸️, and UI and UX Design, and work with a wide range of programming languages ⌨️. I love learning, and I try to learn something new every day 🎓. I like coding with all languages, but if I have to choose my favorites ❤️, I would choose TypeScript, Python & Go 🐍.
 
@@ -21,7 +21,9 @@ I enjoy Machine Learning and AI 🤖, Software and Web development🕸️, and U
 ## Experience
 
 * **AI Integration Software Engineer** at *Solace* (August 2024 - Present)
-    * Developing AI  powered solutions for Solace's products. (To be updated)
+    * Developing AI powered solutions for Solace's products.
+    * Building event driving agentic system.
+    * Building AI platforms that are secure, reliable, and can scale
 
 * **AI Engineer** at *Masterpiece X* (May 2024 – August 2024)
     * Developed agentic systems to automate the entire proposal writing process.
@@ -136,6 +138,9 @@ I enjoy Machine Learning and AI 🤖, Software and Web development🕸️, and U
   - Setting up community guidelines
   - Handling merchandise and swags to be given out at our events
   - Advertising and growing the community  
+
+- **Brand Representative at Solace** | Sep 2024 – Present
+   Representing solace brand and volunteering at requirement, social, and networking events powered by Solace .
 
 - **Brand Representative at Nokia** | Sep 2022 – Aug 2024  
   As a Nokia brand representative, I helped the talent attraction team in virtual and in-person career fairs, answering candidates' technical and hiring process questions. Additionally, I volunteered in photography shoots and media brand advertisements, and represented Nokia's future generation.  
